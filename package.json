@@ -1,0 +1,22 @@
+{
+    "name": "curso-rxjs",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "webpack-dev-server --mode development --open --port=8081"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "rxjs": "^6.6.2",
+        "typescript": "^3.9.7",
+        "webpack": "^4.44.1",
+        "webpack-dev-server": "^3.11.0"
+    },
+    "devDependencies": {
+        "css-loader": "^4.2.0",
+        "ts-loader": "^8.0.2",
+        "webpack-cli": "^3.3.12"
+    }
+}
