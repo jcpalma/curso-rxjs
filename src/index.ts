@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const matriz: number[][] = [
     [8, 2, 22, 97, 38, 15, 0, 40, 0, 75, 4, 5, 7, 78, 52, 12, 50, 77, 91, 8],
     [49, 49, 99, 40, 17, 81, 18, 57, 60, 87, 17, 40, 98, 43, 69, 48, 4, 56, 62, 0],
@@ -44,3 +45,6 @@ for (let i = 0; i < matriz.length; i++) {
     }
 }
 console.log('Valor Máximo:', maximo);
+=======
+console.log('Fin del curso de RxJs');
+>>>>>>> bc25c9e21220ab5c1c7d42ab166582c21ec09b04
